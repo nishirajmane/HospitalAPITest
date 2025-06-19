@@ -1,0 +1,305 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Aarav Sharma",
+      "age": 34,
+      "disease": "Fever"
+    },
+    {
+      "id": "2",
+      "name": "Diya Patel",
+      "age": 63,
+      "disease": "Cancer"
+    },
+    {
+      "id": "3",
+      "name": "Ishaan Reddy",
+      "age": 51,
+      "disease": "Diabetes"
+    },
+    {
+      "id": "4",
+      "name": "Myra Joshi",
+      "age": 38,
+      "disease": "Flu"
+    },
+    {
+      "id": "5",
+      "name": "Ayaan Singh",
+      "age": 24,
+      "disease": "Arthritis"
+    },
+    {
+      "id": "6",
+      "name": "Sara Nair",
+      "age": 68,
+      "disease": "Heart Disease"
+    },
+    {
+      "id": "7",
+      "name": "Reyansh Verma",
+      "age": 29,
+      "disease": "Malaria"
+    },
+    {
+      "id": "8",
+      "name": "Arjun Pandey",
+      "age": 33,
+      "disease": "Cold"
+    },
+    {
+      "id": "9",
+      "name": "Krishna Rao",
+      "age": 52,
+      "disease": "Cancer"
+    },
+    {
+      "id": "10",
+      "name": "Meera Bhatt",
+      "age": 43,
+      "disease": "Flu"
+    },
+    {
+      "id": "11",
+      "name": "Yuvaan Shetty",
+      "age": 22,
+      "disease": "Fever"
+    },
+    {
+      "id": "12",
+      "name": "Aadhya Jain",
+      "age": 39,
+      "disease": "Diabetes"
+    },
+    {
+      "id": "13",
+      "name": "Kabir Ghosh",
+      "age": 70,
+      "disease": "Asthma"
+    },
+    {
+      "id": "14",
+      "name": "Riya Shah",
+      "age": 48,
+      "disease": "Heart Disease"
+    },
+    {
+      "id": "15",
+      "name": "Neil Bansal",
+      "age": 66,
+      "disease": "Cold"
+    },
+    {
+      "id": "16",
+      "name": "Tara Iyer",
+      "age": 59,
+      "disease": "Flu"
+    },
+    {
+      "id": "17",
+      "name": "Om Malhotra",
+      "age": 37,
+      "disease": "Arthritis"
+    },
+    {
+      "id": "18",
+      "name": "Veer Kapoor",
+      "age": 42,
+      "disease": "Fever"
+    },
+    {
+      "id": "19",
+      "name": "Nisha Dutta",
+      "age": 55,
+      "disease": "Diabetes"
+    },
+    {
+      "id": "20",
+      "name": "Rudra Bhattacharya",
+      "age": 62,
+      "disease": "Malaria"
+    },
+    {
+      "id": "21",
+      "name": "Shaurya Bedi",
+      "age": 31,
+      "disease": "Cancer"
+    },
+    {
+      "id": "22",
+      "name": "Ira Mistry",
+      "age": 60,
+      "disease": "Heart Disease"
+    },
+    {
+      "id": "23",
+      "name": "Laksh Tyagi",
+      "age": 41,
+      "disease": "Fever"
+    },
+    {
+      "id": "24",
+      "name": "Prisha Sinha",
+      "age": 46,
+      "disease": "Asthma"
+    },
+    {
+      "id": "25",
+      "name": "Sia Agarwal",
+      "age": 40,
+      "disease": "Cancer"
+    },
+    {
+      "id": "a641",
+      "patientId": 5,
+      "doctor": "Dr. Nishiraj Mehta",
+      "date": "2025-06-22"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "2",
+      "patientId": "3",
+      "doctor": "Dr. Bob",
+      "date": "2025-06-21"
+    },
+    {
+      "id": "3",
+      "patientId": "5",
+      "doctor": "Dr. Charlie",
+      "date": "2025-06-22"
+    },
+    {
+      "id": "4",
+      "patientId": "7",
+      "doctor": "Dr. Alice",
+      "date": "2025-06-23"
+    },
+    {
+      "id": "5",
+      "patientId": "9",
+      "doctor": "Dr. Bob",
+      "date": "2025-06-24"
+    },
+    {
+      "id": "6",
+      "patientId": "12",
+      "doctor": "Dr. Charlie",
+      "date": "2025-06-25"
+    },
+    {
+      "id": "7",
+      "patientId": "15",
+      "doctor": "Dr. Alice",
+      "date": "2025-06-26"
+    },
+    {
+      "id": "8",
+      "patientId": "18",
+      "doctor": "Dr. Bob",
+      "date": "2025-06-27"
+    },
+    {
+      "id": "9",
+      "patientId": "21",
+      "doctor": "Dr. Charlie",
+      "date": "2025-06-28"
+    },
+    {
+      "id": "10",
+      "patientId": "24",
+      "doctor": "Dr. Alice",
+      "date": "2025-06-29"
+    },
+    {
+      "id": "8428"
+    },
+    {
+      "id": "779a",
+      "patientId": 4,
+      "doctor": "Dr. Pranav Mehta",
+      "date": "2025-06-22"
+    },
+    {
+      "id": "69fb",
+      "patientId": 4,
+      "doctor": "Dr. Pranav Mehta",
+      "date": "2025-06-22"
+    },
+    {
+      "id": "fa71"
+    },
+    {
+      "id": "44ba"
+    },
+    {
+      "id": "c27c"
+    },
+    {
+      "id": "2386"
+    }
+  ],
+  "medicines": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Insulin",
+      "quantity": 50
+    },
+    {
+      "id": "3",
+      "name": "Amoxicillin",
+      "quantity": 75
+    },
+    {
+      "id": "4",
+      "name": "Metformin",
+      "quantity": 60
+    },
+    {
+      "id": "5",
+      "name": "Ibuprofen",
+      "quantity": 80
+    },
+    {
+      "id": "6",
+      "name": "Cough Syrup",
+      "quantity": 40
+    },
+    {
+      "id": "7",
+      "name": "Antacid",
+      "quantity": 90
+    },
+    {
+      "id": "8",
+      "name": "Vitamin D",
+      "quantity": 100
+    },
+    {
+      "id": "9",
+      "name": "Aspirin",
+      "quantity": 55
+    },
+    {
+      "id": "10",
+      "name": "Multivitamin",
+      "quantity": 120
+    },
+    {
+      "id": "1474"
+    },
+    {
+      "id": "627e"
+    },
+    {
+      "id": "fb94"
+    },
+    {
+      "id": "6202"
+    }
+  ]
+}

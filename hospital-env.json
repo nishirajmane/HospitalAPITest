@@ -1,0 +1,15 @@
+{
+	"id": "ba664401-f67f-490a-b40d-1221cdd023f3",
+	"name": "Local Hospital API",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-19T15:30:11.841Z",
+	"_postman_exported_using": "Postman/11.50.4"
+}

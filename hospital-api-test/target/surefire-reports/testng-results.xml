@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-19T19:00:18 IST" name="HospitalAPISuite" finished-at="2025-06-19T19:00:20 IST" duration-ms="2672">
+    <groups>
+    </groups>
+    <test started-at="2025-06-19T19:00:18 IST" name="PatientAPITest" finished-at="2025-06-19T19:00:20 IST" duration-ms="2672">
+      <class name="api.PatientTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:18 IST" name="setup" finished-at="2025-06-19T19:00:18 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkPatientCountGreaterThan40()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:18 IST" name="checkPatientCountGreaterThan40" finished-at="2025-06-19T19:00:20 IST" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPatientCountGreaterThan40 -->
+        <test-method signature="contentTypeShouldBeJson()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="contentTypeShouldBeJson" finished-at="2025-06-19T19:00:20 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contentTypeShouldBeJson -->
+        <test-method signature="createNewPatient_shouldReturn201()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="createNewPatient_shouldReturn201" finished-at="2025-06-19T19:00:20 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPatient_shouldReturn201 -->
+        <test-method signature="createPatientWithoutDisease_shouldSetNull()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="createPatientWithoutDisease_shouldSetNull" finished-at="2025-06-19T19:00:20 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPatientWithoutDisease_shouldSetNull -->
+        <test-method signature="deletePatientDynamically_shouldReturn200or204()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="deletePatientDynamically_shouldReturn200or204" finished-at="2025-06-19T19:00:20 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePatientDynamically_shouldReturn200or204 -->
+        <test-method signature="getAllPatients_shouldReturnAtLeast50Patients()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="getAllPatients_shouldReturnAtLeast50Patients" finished-at="2025-06-19T19:00:20 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPatients_shouldReturnAtLeast50Patients -->
+        <test-method signature="getPatientById1_shouldReturnAaravSharma()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="getPatientById1_shouldReturnAaravSharma" finished-at="2025-06-19T19:00:20 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPatientById1_shouldReturnAaravSharma -->
+        <test-method signature="getPatientByInvalidId_shouldReturn404()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="getPatientByInvalidId_shouldReturn404" finished-at="2025-06-19T19:00:20 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPatientByInvalidId_shouldReturn404 -->
+        <test-method signature="getPatients_shouldHaveRequiredFields()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="getPatients_shouldHaveRequiredFields" finished-at="2025-06-19T19:00:20 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPatients_shouldHaveRequiredFields -->
+        <test-method signature="patientId1_ageShouldBeGreaterThan30()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="patientId1_ageShouldBeGreaterThan30" finished-at="2025-06-19T19:00:20 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patientId1_ageShouldBeGreaterThan30 -->
+        <test-method signature="updatePatientId10_shouldReturnUpdatedData()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="updatePatientId10_shouldReturnUpdatedData" finished-at="2025-06-19T19:00:20 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePatientId10_shouldReturnUpdatedData -->
+        <test-method signature="verifyUniquePatientIds()[pri:0, instance:api.PatientTest@2f177a4b]" started-at="2025-06-19T19:00:20 IST" name="verifyUniquePatientIds" finished-at="2025-06-19T19:00:20 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUniquePatientIds -->
+      </class> <!-- api.PatientTest -->
+    </test> <!-- PatientAPITest -->
+  </suite> <!-- HospitalAPISuite -->
+</testng-results>
